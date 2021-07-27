@@ -10,5 +10,5 @@ Hi there, I'm Dmitriy!
 <a href="https://nodejs.org/" rel="nofollow"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></a>
 <a href="https://redux.js.org/" rel="nofollow"><img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" style="max-width:100%;"></a></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=disterveg&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=disterveg&repo=disterveg)](https://github.com/anuraghazra/github-readme-stats)
 
