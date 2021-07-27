@@ -1,6 +1,5 @@
 # Hi there, I'm Dmitriy!
 
-[![Тут текст](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)
 <a href="http://htmlbook.ru/html5" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
 <a href="https://learn.javascript.ru/" rel="nofollow"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
